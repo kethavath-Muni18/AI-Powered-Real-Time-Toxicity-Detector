@@ -261,7 +261,3 @@ This project is licensed under the MIT License.
 GitHub: https://github.com/kethavath-Muni18
 
 ---
-
-## ⭐ Support
-
-If you found this project useful, please consider giving it a ⭐ on GitHub.
